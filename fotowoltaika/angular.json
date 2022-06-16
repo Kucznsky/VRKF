@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "fotowoltaika"
+  "defaultProject": "fotowoltaika",
+  "cli": {
+    "analytics": "f66afe10-6d7c-41ad-97ce-b9dfc760af74"
+  }
 }
